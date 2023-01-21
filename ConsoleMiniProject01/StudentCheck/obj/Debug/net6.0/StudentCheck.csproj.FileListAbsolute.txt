@@ -1,0 +1,15 @@
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.csproj.AssemblyReference.cache
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.AssemblyInfoInputs.cache
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.AssemblyInfo.cs
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.csproj.CoreCompileInputs.cache
+C:\Development\ConsoleMiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.exe
+C:\Development\ConsoleMiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.deps.json
+C:\Development\ConsoleMiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.runtimeconfig.json
+C:\Development\ConsoleMiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.dll
+C:\Development\ConsoleMiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.pdb
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.dll
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\refint\StudentCheck.dll
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.pdb
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.genruntimeconfig.cache
+C:\Development\ConsoleMiniProject01\StudentCheck\obj\Debug\net6.0\ref\StudentCheck.dll
